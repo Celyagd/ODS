@@ -90,10 +90,9 @@ Passage des qualificatifs de&nbsp;:
 
 <img src="./img/roche_infographie.png" alt="Roche_infographie" style="width: 900px;"/>
 
+---
 
-### L’*open data* en santé
-
-**Une mise à disposition de données publiques dans la mouvance  «&nbsp;*open government*»&nbsp;»**
+### L’*open data* : Une mise à disposition de données publiques dans la mouvance  «&nbsp;*open government*»&nbsp;»
 
 - **Loi République Numérique - 7 octobre 2017**&nbsp;: vient achever long parcours juridique (notion de **données d’intérêt général**, mission de service public de la donnée, droit à l’*open data* à la suite de la loi CADA).
 
@@ -144,7 +143,7 @@ On peut rajouter aussi les données du **«&nbsp;soi quantifié&nbsp;»** issues
 
 <span style="font-size:0.66em;color:#666;">[Cahier prospectif&nbsp;: le corps, nouvel objet connecté - CNIL]( https://www.cnil.fr/sites/default/files/typo/document/CNIL_CAHIERS_IP2_WEB.pdf)</span>
 
-+++
+---
 
 Que signifie chiffres privés/publics dans ce contexte&nbsp;? Qu’entendre par «&nbsp;ouvrir des données&nbsp;»&nbsp;? Quels rôles pour de nouveaux acteurs dans ce domaine (régulateurs, détenteurs de données sur Internet, etc.)&nbsp;?
 
