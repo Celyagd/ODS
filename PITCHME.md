@@ -121,7 +121,7 @@ Passage des qualificatifs de&nbsp;:
 
 ---
 
-### Définition de l’*open data* dans le domaine de la santé, en pratique&nbsp;:
+### *Open data* & Santé - en pratique&nbsp;:
 
 Dans le contexte de la loi, que peut-on définir comme données d’intérêt général (social, économique et environnemental)&nbsp;?
 
