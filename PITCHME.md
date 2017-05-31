@@ -92,7 +92,9 @@ Passage des qualificatifs de&nbsp;:
 
 ---
 
-### L’*open data* : Une mise à disposition de données publiques dans la mouvance  «&nbsp;*open government*»&nbsp;»
+### L’*open data* en France
+
+**Une mise à disposition de données publiques dans la mouvance  «&nbsp;*open government*»&nbsp;»**
 
 - **Loi République Numérique - 7 octobre 2017**&nbsp;: vient achever long parcours juridique (notion de **données d’intérêt général**, mission de service public de la donnée, droit à l’*open data* à la suite de la loi CADA).
 
@@ -127,7 +129,7 @@ Définition de l’*open data* dans le domaine de la santé, en pratique&nbsp;:
 
 - partage restreint des données sanitaires issues des institutions publiques et privées hospitalières et de santé ⇒ création de l’[Institut des Données de Santé](http://www.institut-des-donnees-de-sante.fr/)
 
-+++
+---
 
 Mais ouverture d’autres données revendiquée&nbsp;:
 
