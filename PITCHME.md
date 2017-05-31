@@ -77,9 +77,9 @@ Passage des qualificatifs de&nbsp;:
 
 ---
 
-### Imaginaire numérique et *data*
+### *Open/Big Data*: une formule
 
-*Open Big Data*&nbsp;: **une formule** <span style="font-size:0.66em;color:#666;">(Krieg-Planque, 2009)</span> employée par tous mais des **significations multiples** qui révèlent différents **enjeux et intérêts**&nbsp;:
+Expression employée par tous mais des **significations multiples** qui révèlent différents **enjeux et intérêts**&nbsp;<span style="font-size:0.66em;color:#666;">(Krieg-Planque, 2009)</span> :
 
   - *Big data*&nbsp;: maitrise technique, enjeux économiques, avantages compétitifs ;
   - *open data*&nbsp;: enjeu gestionnaire, économique, démocratique.
@@ -125,11 +125,11 @@ Passage des qualificatifs de&nbsp;:
 
 Dans le contexte de la loi, que peut-on définir comme données d’intérêt général (social, économique et environnemental)&nbsp;?
 
-- partage restreint des données sanitaires issues des institutions publiques et privées hospitalières et de santé ⇒ création de l’[Institut des Données de Santé](http://www.institut-des-donnees-de-sante.fr/)
+-> partage restreint des données sanitaires issues des institutions publiques et privées hospitalières et de santé ⇒ création de l’[Institut des Données de Santé](http://www.institut-des-donnees-de-sante.fr/)
 
 ---
 
-### Ouverture d’autres données revendiquée&nbsp;:
+### Ouverture revendiquée d’autres données &nbsp;:
 
 L’exemple d’[Opentrials](https://opentrials.net/)
 
@@ -398,7 +398,7 @@ Pour contribuer à cette journée&nbsp;:
 
 ##### Processus de co-construction de la donnée (de sa signification) mais aussi des modalités de son ouverture&nbsp;:
 
-  - Construction d’un cadre socio-technique reposant de plus en plus sur un imaginaire cyber-numérique fort&nbsp;:
+  - Construction d’un cadre socio-technique reposant de plus en plus sur un imaginaire cybernético-numérique fort&nbsp;:
 
     - Une **légitimité par la maitrise de la technique**, de la «&nbsp;*data science*&nbsp;» ;
     - une **responsabilité re-portée sur la technique**.
