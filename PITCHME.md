@@ -121,19 +121,17 @@ Passage des qualificatifs de&nbsp;:
 
 ---
 
-### L’open data en santé&nbsp;: quelles significations&nbsp;?
+### Définition de l’*open data* dans le domaine de la santé, en pratique&nbsp;:
 
-Définition de l’*open data* dans le domaine de la santé, en pratique&nbsp;:
-
-- Dans le contexte de la loi, que peut-on définir comme données d’intérêt général (social, économique et environnemental)&nbsp;?
+Dans le contexte de la loi, que peut-on définir comme données d’intérêt général (social, économique et environnemental)&nbsp;?
 
 - partage restreint des données sanitaires issues des institutions publiques et privées hospitalières et de santé ⇒ création de l’[Institut des Données de Santé](http://www.institut-des-donnees-de-sante.fr/)
 
 ---
 
-Mais ouverture d’autres données revendiquée&nbsp;:
+### Ouverture d’autres données revendiquée&nbsp;:
 
-l’exemple d’[Opentrials](https://opentrials.net/)
+L’exemple d’[Opentrials](https://opentrials.net/)
 
 <span style="font-size:0.66em;color:#666;">[Vidéo présentation Opentrials](https://opentrials.net/)</span>
 
