@@ -96,7 +96,7 @@ Expression employée par tous mais des **significations multiples** qui révèle
 
 **Une mise à disposition de données publiques dans la mouvance  «&nbsp;*open government*»&nbsp;»**
 
-- **Loi République Numérique - 7 octobre 2017**&nbsp;: vient achever long parcours juridique (notion de **données d’intérêt général**, mission de service public de la donnée, droit à l’*open data* à la suite de la loi CADA).
+- **Loi République Numérique - 7 octobre 2016**&nbsp;: vient achever long parcours juridique (notion de **données d’intérêt général**, mission de service public de la donnée, droit à l’*open data* à la suite de la loi CADA).
 
 +++
 
