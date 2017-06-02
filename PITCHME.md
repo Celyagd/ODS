@@ -382,7 +382,7 @@ Partage, transparence, travail collaboratif...
 
 VS
 
-**logiques gestionnaires**&nbsp;: mesure de l’efficacité et de la performance des équipes.
+**Logiques gestionnaires**&nbsp;: mesure de l’efficacité et de la performance des équipes.
 
 ---
 
